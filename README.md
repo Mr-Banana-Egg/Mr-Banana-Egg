@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Mr-Banana-Egg
-- 👀 I’m interested in Computers 
-- 🌱 I’m currently learning about life
-- 😄 Pronouns: ^_~
-- ⚡ Fun fact: Computer is the Goat
+WIP
 
 <!---
 Mr-Banana-Egg/Mr-Banana-Egg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
